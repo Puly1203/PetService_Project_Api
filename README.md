@@ -106,10 +106,5 @@ dotnet run
 - Postman / Thunder Client for API 測試
 - Swagger（可整合）
 
-## 授權
 
-本專案採用 MIT 授權條款，詳見 [LICENSE](LICENSE)
-
-## 聯繫方式
-
-- 前端專案連結：[https://github.com/sa585951/PetService-project](https://github.com/sa585951/PetService-project)
+前端專案連結：https://github.com/Puly1203/PetService-project
